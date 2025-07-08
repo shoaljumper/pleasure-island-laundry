@@ -1,7 +1,7 @@
 @@ .. @@
          <div className="relative h-80 md:h-96 overflow-hidden rounded-t-2xl">
 -          <img 
-            src="/Beaches-near-Wilmington-North-Carolina (1).jpg"
+            src="/carolina-beach-sunset.jpg"
 -            alt="Carolina Beach sunset"
 -            className="w-full h-full object-cover"
 -          />
